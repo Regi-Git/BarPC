@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[nn_NO]=
+Comment=
+Exec=konsole --hold -e sudo python3 -m serial.tools.miniterm /dev/ttyACM0
+GenericName[nn_NO]=
+GenericName=
+Icon=/home/felix/Regis-barpc/icon2.png
+MimeType=
+Name[nn_NO]=FeLX-Node Setup
+Name=FeLX-Node Setup
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
