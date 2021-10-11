@@ -16,7 +16,7 @@ cd BarPC/ubuntu_regi_installer
 
 Gi installer permissions
 ```
-chmod +x ubuntu_install.sh
+sudo chmod +x ubuntu_install.sh
 ```
 
 Kjør installer:
