@@ -2,7 +2,7 @@
 Samlerepo for alt av config til godmaskina
 
 
-## Get started
+## Howto:
 
 Clone :
 ```
