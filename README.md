@@ -11,7 +11,7 @@ git clone https://github.com/Regi-Git/BarPC
 
 Bytt mappe:
 ```
-cd ubuntu_regi_installer
+cd BarPC/ubuntu_regi_installer
 ```
 
 Gi installer permissions
